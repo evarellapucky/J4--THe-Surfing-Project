@@ -1,0 +1,7 @@
+.jumbotron {
+  height: 500px;
+  background-image: url(Images/pexels-pixabay-416676.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
